@@ -1,0 +1,18 @@
+[submodule "hw5-cs473"]
+	path = hw5-cs473
+	url = https://github.com/sagsango/hw5-cs473.git
+[submodule "hw4-cs473"]
+	path = hw4-cs473
+	url = https://github.com/sagsango/hw4-cs473.git
+[submodule "hw3-cs473"]
+	path = hw3-cs473
+	url = https://github.com/sagsango/hw3-cs473.git
+[submodule "hw2-cs473"]
+	path = hw2-cs473
+	url = https://github.com/sagsango/hw2-cs473.git
+[submodule "hw1-cs473"]
+	path = hw1-cs473
+	url = https://github.com/sagsango/hw1-cs473.git
+[submodule "hw0-cs473"]
+	path = hw0-cs473
+	url = https://github.com/sagsango/hw0-cs473.git
